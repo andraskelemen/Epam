@@ -1,3 +1,2 @@
 # Epam
-
-Not Bad
+Basic Exercises
